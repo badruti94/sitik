@@ -1,0 +1,15 @@
+.form_manual{
+    width: 500px;
+    margin-left: 50px;
+}
+
+.posisi{
+    position: absolute;
+    top: 220px;
+    left: 703px;
+}
+.posisi_web{
+    position: absolute;
+    top: 475px;
+    left: 703px;
+}
